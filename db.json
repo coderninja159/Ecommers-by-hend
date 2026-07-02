@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "brand": "Essence",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks.",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 3.28,
+      "stock": 44,
+      "brand": "Glamour Beauty",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine.",
+      "price": 14.99,
+      "discountPercentage": 18.19,
+      "rating": 4.64,
+      "stock": 59,
+      "brand": "Velvet Touch",
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "MacBook Pro 14-inch",
+      "description": "The MacBook Pro 14-inch delivers exceptional performance with the M2 Pro chip, stunning Liquid Retina XDR display, and all-day battery life.",
+      "price": 1999.99,
+      "discountPercentage": 3.4,
+      "rating": 4.75,
+      "stock": 12,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/MacBook%20Pro/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/MacBook%20Pro/1.png"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Samsung Galaxy Book2 Pro",
+      "description": "The Samsung Galaxy Book2 Pro is a sleek and powerful laptop offering fast performance and a vibrant AMOLED display.",
+      "price": 1299.99,
+      "discountPercentage": 8.4,
+      "rating": 4.2,
+      "stock": 18,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Samsung%20Galaxy%20Book2%20Pro/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Samsung%20Galaxy%20Book2%20Pro/1.png"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "iPhone 15 Pro Max",
+      "description": "The iPhone 15 Pro Max features a titanium design, A17 Pro chip, and an advanced camera system for pro-level photography.",
+      "price": 1199.99,
+      "discountPercentage": 2.1,
+      "rating": 4.85,
+      "stock": 30,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2015%20Pro%20Max/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2015%20Pro%20Max/1.png"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy S23 Ultra",
+      "description": "The Samsung Galaxy S23 Ultra boasts a 200MP camera, S Pen support, and a stunning Dynamic AMOLED display.",
+      "price": 1099.99,
+      "discountPercentage": 6.8,
+      "rating": 4.6,
+      "stock": 25,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S23%20Ultra/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S23%20Ultra/1.png"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Classic Leather Sofa",
+      "description": "The Classic Leather Sofa combines timeless design with premium leather upholstery for lasting comfort.",
+      "price": 899.99,
+      "discountPercentage": 12.5,
+      "rating": 4.3,
+      "stock": 7,
+      "brand": "Comfort Living",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Sofa/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Sofa/1.png"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Wooden Dining Table",
+      "description": "The Wooden Dining Table features a solid oak construction, seating up to six people comfortably.",
+      "price": 549.99,
+      "discountPercentage": 4.2,
+      "rating": 4.5,
+      "stock": 15,
+      "brand": "Oak & Co.",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Dining%20Table/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Dining%20Table/1.png"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Air Jordan 1 Retro High",
+      "description": "The Air Jordan 1 Retro High is an iconic sneaker offering premium leather construction and classic colorways.",
+      "price": 179.99,
+      "discountPercentage": 9.6,
+      "rating": 4.9,
+      "stock": 40,
+      "brand": "Nike",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/1.png"
+      ]
+    }
+  ]
+}
